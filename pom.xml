@@ -23,7 +23,7 @@
     <parent>
         <groupId>org.apache.sling</groupId>
         <artifactId>sling</artifactId>
-        <version>33-SNAPSHOT</version>
+        <version>30</version>
         <relativePath />
     </parent>
 
@@ -45,6 +45,7 @@
             <plugin>
                 <groupId>org.apache.sling</groupId>
                 <artifactId>slingstart-maven-plugin</artifactId>
+                <version>1.7.0</version>
                 <extensions>true</extensions>
             </plugin>
         </plugins>
