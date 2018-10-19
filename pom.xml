@@ -28,14 +28,14 @@
     </parent>
 
     <artifactId>org.apache.sling.launchpad.test-bundles</artifactId>
-    <version>0.0.6</version>
+    <version>0.0.7-SNAPSHOT</version>
     <packaging>slingfeature</packaging>
 
     <scm>
         <connection>scm:git:https://gitbox.apache.org/repos/asf/sling-org-apache-sling-launchpad-test-bundles.git</connection>
         <developerConnection>scm:git:https://gitbox.apache.org/repos/asf/sling-org-apache-sling-launchpad-test-bundles.git</developerConnection>
         <url>https://gitbox.apache.org/repos/asf?p=sling-org-apache-sling-launchpad-test-bundles.git</url>
-      <tag>org.apache.sling.launchpad.test-bundles-0.0.6</tag>
+      <tag>HEAD</tag>
   </scm>
 
     <name>Apache Sling Launchpad Test Bundles</name>
