@@ -47,6 +47,9 @@
                 <groupId>org.apache.sling</groupId>
                 <artifactId>slingstart-maven-plugin</artifactId>
                 <extensions>true</extensions>
+                <configuration>
+                    <usePomDependencies>true</usePomDependencies>
+                </configuration>
             </plugin>
         </plugins>
     </build>
