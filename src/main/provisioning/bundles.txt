@@ -26,7 +26,6 @@
   org.apache.sling/org.apache.sling.launchpad.test-fragment
 
 [artifacts startLevel=5]
-  org.apache.sling/org.apache.sling.launchpad.test-services-war//war
   org.apache.sling/org.apache.sling.launchpad.test-services
   
 [artifacts runModes=jackrabbit,oak]
